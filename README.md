@@ -30,5 +30,5 @@ One row of data represents the school’s name, school district, county, city, d
 **Features**
 Lead concentration, date and time of analysis (day of the week and time of collection), demographics and income.
 
-## Tools:
+## Tools
 Excel for exploratory data analysis and Tableau for visualizations
