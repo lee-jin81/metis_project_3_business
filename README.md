@@ -6,8 +6,8 @@
 [Excel sheet](https://github.com/lee-jin81/metis_project_3_business/blob/main/Project_3_v14.xlsx) <br>
 
 # Lead contamination in drinking water in schools
-## Introduction 
-
+## Abstract 
+Lead is a contaminant in drinking water that affects younger children the most, since lead negatively impacts children’s growth, behavior and learning. The Washington State Department of Health initiated lead testing in drinking water at schools although not all schools were analyzed due to lack of funding. The goal of this project was to have the ability to predict which schools are likely to have high lead levels in their drinking water to better allocate water testing based on funding. I analyzed the lead results with Excel, and I used Tableau to visualize and communicate my results. Of the schools that were analyzed, several schools had a level of lead that was far below the safe level.
 
 ### Question
 Can we identify the common factors in schools with high lead contamination in water?
