@@ -5,7 +5,9 @@
 [Final writeup](https://github.com/lee-jin81/metis_project_3_business/blob/main/3.Final%20writeup.pdf) <br>
 [Excel sheet](https://github.com/lee-jin81/metis_project_3_business/blob/main/Project_3_v14.xlsx) <br>
 
-# Introduction 
+## Introduction 
+
+
 ## Question
 Can we identify the common factors in schools with high lead contamination in water?
 The government can work with the schools to provide resources to reduce and prevent lead contamination in water to increase the health of the students.
