@@ -8,15 +8,15 @@
 ## Introduction 
 
 
-## Question
+### Question
 Can we identify the common factors in schools with high lead contamination in water?
 The government can work with the schools to provide resources to reduce and prevent lead contamination in water to increase the health of the students.
 
-## Data science opportunity
+### Data science opportunity
 Exposure to lead contamination can affect children’s’ growth, behavior and learning problems. 
 We can use data to identify the common factors in school with lead contamination and use this to better address and prevent the problem. 
 
-## Impact hypothesis
+### Impact hypothesis
 By identifying the factors of lead contaminations in water and school that are high risk, the government can work with the schools to improve the water system and implement frequent testing to ensure that the water is safe. 
 
 ## Data Description
