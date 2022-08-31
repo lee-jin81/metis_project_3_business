@@ -40,5 +40,5 @@ Lead concentration, date and time of analysis (day of the week and time of colle
 Thorough exploratory analysis, cleaning and data aggregation in Excel.
 
 ## Tools
-* Excel: exploratory data analysis:
+* Excel: exploratory data analysis
 * Tableau: visualizations and dashboard
