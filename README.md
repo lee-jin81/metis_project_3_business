@@ -33,7 +33,7 @@ Source 2: https://www.k12.wa.us/data-reporting/data-portal
 
 One row of data represents the school’s name, school district, county, city, date and time of lead sample collection, and lead concentration. Additional data sets provide demographics of student body at the school and median household income at the county level. 
 
-**Features**
+### Features
 Lead concentration, date and time of analysis (day of the week and time of collection), demographics and income.
 
 ## Algorithms
